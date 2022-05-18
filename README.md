@@ -3,8 +3,7 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="100%"  style="align:center;" valign="top">
-       <img src="https://github.com/Kaitlyn-Li/CoffeeSite/blob/main/Project5%20-%20Coffee%20Shop/Output.gif.gif" alt="a output gif displaying the website" />
-    </td>
+       <img src="https://github.com/Kaitlyn-Li/CoffeeSite/blob/main/Project5%20-%20Coffee%20Shop/coffeesite_output.gif" alt="a output gif displaying the website" />
   </tr>
     
 </table>
